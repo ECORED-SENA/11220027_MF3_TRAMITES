@@ -1,0 +1,29 @@
+[
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Certificado",
+        "desciption": "Documento expedido por una entidad pública o privada para evidenciar requisitos de cumplimiento de la empresa."
+      }
+    ]
+  },
+  {
+    "letter": "L",
+    "terms": [
+      {
+        "title": "Licitación",
+        "desciption": "Proceso mediante el cual una empresa participa de la adjudicación de contratos por el Estado."        
+      }
+    ]
+  }, 
+  {
+    "letter": "T",
+    "terms": [
+      {
+        "title": "Trámites",
+        "desciption": "Tonjunto de actividades secuenciales para alcanzar un objetivo."
+      }
+    ]
+  }
+]

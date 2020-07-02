@@ -1,0 +1,88 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id":0,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion"],
+    "path": "pages/intro.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "tramites",
+    "title": "1. Trámites legales para la constitución de una empresa",
+    "breadcrumb": ["Inicio","Tramites"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tramites",
+        "title": "1.1 Beneficios de la formalización",
+        "anchor": "beneficios"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tramites",
+        "title": "1.2 Riesgos de la informalidad",
+        "anchor": "riesgos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tramites",
+        "title": "1.3 Trámites previos a la formalización",
+        "anchor": "formalizacion"
+      }
+    ]   
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "formalizacion",
+    "title": "2. Trámites de formalización",
+    "breadcrumb": ["Inicio","formalizacion"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "funcionamiento",
+    "title": "3. Trámites de funcionamiento",
+    "breadcrumb": ["Inicio","funcionamiento"],
+    "path": "pages/3-tema.html"  
+  },
+  { 
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "otros",
+    "title": "4. Otros trámites complementarios",
+    "breadcrumb": ["Inicio","otros"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "otros",
+        "title": "4.1 Registros y permisos INVIMA",
+        "anchor": "invima"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "otros",
+        "title": "4.2 Registro de marca ante la Superintendencia de Industria y Comercio (SIC)",
+        "anchor": "superintendencia"
+      }
+    ]   
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }
+]
